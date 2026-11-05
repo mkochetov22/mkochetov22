@@ -12,7 +12,6 @@ Bachelor student in CS at Bielefeld University.
 I plan to start a research-oriented master's program in Data Science at Hochschule Bielefeld (HSBI) in the winter semester of 2027/28.
 
 ### Experience
-* Full-Stack Software Developer · Goldklee GmbH
 
 * AI-powered learning app · University project for PerFact Innovation GmbH
 
